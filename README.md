@@ -1,22 +1,23 @@
 ﻿
 
+
 # 微信好友分析
 
 ## 功能说明：用作者的微信号进行示范
 #### 1：统计好友的性别
-![python](https://github.com/isleak/wechat-friends/tree/master/source/1.png)
+![python](https://github.com/isleak/wechat-friends/blob/master/source/1.png)
 #### 2：统计好友的地域分布，并且可视化在地图上展示
-![python](https://github.com/isleak/wechat-friends/tree/master/source/2.png)
+![python](https://github.com/isleak/wechat-friends/blob/master/source/2.png)
 
-![python](https://github.com/isleak/wechat-friends/tree/master/source/3.png)
+![python](https://github.com/isleak/wechat-friends/blob/master/source/3.png)
 #### 3：将好友的昵称做成词云
 因为这个信息比较私人，这里就不展示
 #### 4：统计好友个性签名中的高频词汇
-![python](https://github.com/isleak/wechat-friends/tree/master/source/4.png)
+![python](https://github.com/isleak/wechat-friends/blob/master/source/4.png)
 #### 5：将所有好友的头像合并成一张大图
-![python](https://github.com/isleak/wechat-friends/tree/master/source/5.png)
+![python](https://github.com/isleak/wechat-friends/blob/master/source/5.png)
 #### 6：微信自动发送与回复消息
-<img height="500" align="center" src="https://github.com/isleak/wechat-friends/tree/master/source/6.jpg" alt="">
+<img height="500" align="center" src="https://github.com/isleak/wechat-friends/blob/master/source/6.jpg" alt="">
 
 ## 依赖
 本程序使用python3，请在python3环境下运行
